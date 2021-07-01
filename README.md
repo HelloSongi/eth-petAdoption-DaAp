@@ -6,6 +6,7 @@
 # truffle framework
 # solidity
 # ganache
-# node.js
+# web3.js
 # Ethereum
 # Metamask
+
