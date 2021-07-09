@@ -18,6 +18,7 @@ module.exports = {
 //add your wallet mnemonic letters
 // and your infura / or any network provider
 
+
 /*//1. Initialize `truffle-hdwallet-provider`
 const HDWalletProvider = require("truffle-hdwallet-provider");
 // Set your own mnemonic here
